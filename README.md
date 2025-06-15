@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siva Kumar Derangula</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **python,Go,AWS**
+- 🌱 I’m currently learning **python,Machine Learning,Deep Learning,Natural Language Processing,Gen AI,AWS,Azure,MLOPS**
 
-- 💬 Ask me about **python, AWS cloud and linux**
+- 💬 Ask me about **python,Machine Learning,Deep Learning,Natural Language Processing,Gen AI,AWS,Azure,MLOPS**
 
 - 📫 How to reach me **sivader18@gmail.com**
 
