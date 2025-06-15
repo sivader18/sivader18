@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python,Machine Learning,Deep Learning,Natural Language Processing,Gen AI,AWS,Azure,MLOPS**
 
-- 💬 Ask me about **python,Machine Learning,Deep Learning,Natural Language Processing,Gen AI,AWS,Azure,MLOPS**
+- 💬 Ask me about **python,Machine Learning,Deep Learning,Natural Language Processing**
 
 - 📫 How to reach me **sivader18@gmail.com**
 
